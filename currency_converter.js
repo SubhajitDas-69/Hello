@@ -57,3 +57,4 @@ btn.addEventListener("click", (evt) => {
 window.addEventListener("load", () => {
   updateExchangeRate();
 });
+console.log("TIU BCA SUBHAJIT DAS")
